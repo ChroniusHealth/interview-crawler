@@ -19,7 +19,7 @@ git clone --recursive https://github.com/ChroniusHealth/interview-crawler.git
 yarn
 ```
 
-3. If installation is successful (no errors), you can launch the application:
+3. If installation is successful (no errors), you can launch the script:
 
 ```bash
 yarn start
