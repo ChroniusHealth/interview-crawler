@@ -1,0 +1,25 @@
+{
+  "name": "chronius-interview-crawler",
+  "version": "1.0.0",
+  "description": "Chronius Interview Template - Crawler",
+  "main": "index.js",
+  "repository": "https://github.com/ChroniusHealth/interview-crawler",
+  "author": "Chronius Health",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@swc/core": "^1.3.35",
+    "axios": "^1.3.3",
+    "chalk": "4.1.0",
+    "playwright": "^1.30.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0"
+  },
+  "packageManager": "yarn@4.0.0-rc.39"
+}
