@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-- NodeJS
-- Yarn
+- [NodeJS](https://nodejs.org/en/download/)
+- [Yarn](https://yarnpkg.com/getting-started/install)
 
 ## Installation
 
