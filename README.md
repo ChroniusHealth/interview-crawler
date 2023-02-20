@@ -10,7 +10,7 @@
 1. Clone the git repository:
 
 ```bash
-git clone --recursive https://github.com/ChroniusHealth/interview-crawler.git
+git clone https://github.com/ChroniusHealth/interview-crawler.git
 ```
 
 2. cd into the root folder and run (this will install all packages):
